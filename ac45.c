@@ -1,1 +1,0 @@
-//WAP to check the number is armstrong number
