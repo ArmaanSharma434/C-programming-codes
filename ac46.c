@@ -1,1 +1,0 @@
-//WAP to print the multiplication table of given number
